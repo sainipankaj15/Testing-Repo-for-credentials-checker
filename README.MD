@@ -1,4 +1,5 @@
 ## Dummy Repo
-- This is dummy repo with valid and invalid IAM Credentials.
-- There is one file leak.js there credentials are mentioned.
-- This repo, I take as a example for my another project.
+- This is a dummy repo with valid and invalid IAM Credentials.
+- There is one file, leak.js, where credentials are mentioned.
+- I take this as an example for my other project.
+- Main Repository : https://github.com/sainipankaj15/IAM-Sentinel-AWS-Credentials-Scanner
